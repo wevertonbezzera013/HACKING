@@ -1,5 +1,6 @@
 import socket
 
+
 portas = [21, 23, 80, 443, 8080]
 
 for porta in portas:
